@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/kaleem-mehmood🌳-8673257a", "_blank");
+          window.open("https://www.linkedin.com/in/kaleem-mehmood🌳-8673257a/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -523,13 +523,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=lgXCKmwAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
